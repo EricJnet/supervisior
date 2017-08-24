@@ -1,7 +1,7 @@
 {
-  "name": "ionic3-components",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "name": "supervisior",
+  "author": "EricJnet",
+  "homepage": "https://supervisior.com/",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
@@ -54,5 +54,5 @@
     "ionic-plugin-keyboard"
   ],
   "cordovaPlatforms": [],
-  "description": "Advanced Ionic Components: An Awesome Ionic project"
+  "description": "supervisior: An JP Exams"
 }
